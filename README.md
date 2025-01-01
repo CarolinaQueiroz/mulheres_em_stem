@@ -2,7 +2,7 @@
 
 # Projeto de ciência de dados em Python sobre a participação feminina nas áreas de STEM
 
-> **NOTA:** Projeto desenvolvido em Junho/2023 como parte da disciplina de Linguagens de Programação na FATEC Franco da Rocha
+> **NOTA:** Projeto desenvolvido em Junho/2023 como parte da disciplina de Linguagens de Programação do curso de Gestão da TI na FATEC Franco da Rocha
 
 ## Introdução
 
