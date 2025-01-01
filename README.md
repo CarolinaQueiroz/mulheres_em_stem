@@ -32,9 +32,9 @@ Principais variáveis de interesse: gênero - país - idade - nível de escolari
 
 ## Input
 
-multiple_choice_responses.csv
+`Input`/multiple_choice_responses.csv
 
-fenix.png
+`Input`/fenix.png
 
 ## Conecte-se comigo
 
